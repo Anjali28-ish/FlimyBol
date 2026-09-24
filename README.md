@@ -4,7 +4,7 @@ An AI-powered movie dialogue generator that transforms simple scene descriptions
 
 ---
 
-## 📸 Preview
+
 
 ## 📸 Preview
 
