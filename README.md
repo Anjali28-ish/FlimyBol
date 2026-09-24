@@ -4,15 +4,13 @@ An AI-powered movie dialogue generator that transforms simple scene descriptions
 
 ---
 
-
-
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/line.png" alt="Landing Page" width="48%">
-  &nbsp;&nbsp;
-  <img src="images/generatorDialogue.png" alt="Generated Dialogue" width="48%">
+  <img src="images/line.png" alt="Landing Page" width="48%" />
+  <img src="images/generatorDialogue.png" alt="Generated Dialogue" width="48%" />
 </p>
+
 ---
 
 ## ✨ Features
@@ -112,8 +110,8 @@ POST /api/chat
 ```json
 {
   "sentence": "Sapne bade rakho... mehnat unse bhi badi.",
-  "genre": "Action",
-  "emotion": "Confident",
+  "genre": "Comedy",
+  "emotion": "Happy",
   "language": "Hinglish"
 }
 ```
