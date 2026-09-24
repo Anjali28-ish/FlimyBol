@@ -7,8 +7,8 @@ An AI-powered movie dialogue generator that transforms simple scene descriptions
 ## 📸 Preview
 
 <p align="center">
-  <img src="images/line.png" alt="Landing Page" width="48%" />
-  <img src="images/generatorDialogue.png" alt="Generated Dialogue" width="48%" />
+  <img src="./images/line.png" alt="Landing Page" width="48%" />
+  <img src="./images/generatorDialogue.png" alt="Generated Dialogue" width="48%" />
 </p>
 
 ---
